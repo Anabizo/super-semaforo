@@ -1,0 +1,12 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"D1, D6, D10, D5",4,"Vermelho LED"
+"D2, D7",2,"Amarelo LED"
+"D3, D8, D9, D4",4,"Verde LED"
+"R1, R2, R3, R6, R7, R8, R9, R12",8,"220 Ω Resistor"
+"R4",1," Fotorresistor"
+"R5",1,"10 kΩ Resistor"
+"PIEZO1, PIEZO2",2," Piezo"
+"Sbotao1, Sbotao2",2," Botão"
+"R10, R11",2,"16.5 kΩ Resistor"
+"DIST1, DIST2",2," Sensor de distância ultrassônico (quatro pinos)"
