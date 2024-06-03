@@ -22,5 +22,7 @@ O sensor ultrassônico capta movimentos nos semáforos, e caso haja algum movime
 ![foto-semaforo-simulador](https://github.com/Anabizo/super-semaforo/assets/107151980/caf0120e-1052-4258-9cdc-045ea9496d46)
 
 ###imagem dos componentes montados na protoboard física:
-![foto-semaforo-fisico](https://github.com/Anabizo/super-semaforo/assets/107151980/943d3f92-7f7a-4695-815a-e5f46288562a)
+![foto-semaforo-fisico](https://github.com/Anabizo/super-semaforo/assets/107151980/4db2c53e-fe95-42c4-9ae3-f0724ba0de59)
+
+
 
